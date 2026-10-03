@@ -55,5 +55,5 @@ Responsive sportswear and racing gear e-commerce platform with modern UI and int
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- Portfolio: Add your portfolio URL
+- LinkedIn: https://www.linkedin.com/in/abdul-hanan-02b52a306/?isSelfProfile=true
+
